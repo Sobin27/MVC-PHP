@@ -1,0 +1,8 @@
+{
+    "name": "sob/mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app/"
+        }
+    }
+}
